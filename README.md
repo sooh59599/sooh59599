@@ -37,25 +37,6 @@
 
 ---
 
-## 👩🏻‍💻 주요 프로젝트
-
-### 🛍 양박정성 – 쇼핑몰 웹사이트
-- 팀원 4명 / 백엔드 개발, DB 설계, 결제·좋아요 기능 담당
-- 결제 API 연동, 포인트 결제 기능 구현
-- UUID 기반 주문 시스템 도입으로 ID 충돌 문제 해결
-- JPA fetch join 최적화 → 전체 조회 성능 약 40% 향상  
-🔗 [GitHub Repo](https://github.com/GogiDosirak/YPJS.git)
-
----
-
-### 🐾 DURUDURU – 위치 기반 커뮤니티
-- 회원가입 유효성 검사 및 문자 인증
-- 반려동물 사진 업로드, GPS 기반 게시글 정렬
-- 카카오 지도 API 연동  
-🔗 [GitHub Repo](https://github.com/GogiDosirak/duruduru-project.git)
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">

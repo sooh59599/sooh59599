@@ -43,7 +43,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soo59599&layout=compact&bg_color=180,b8ecf9,ffffff&title_color=000000&text_color=000000"/>
 </p>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DoH100&theme=tokyonight&column=6&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=soo59599&theme=tokyonight&column=6&margin-w=15&margin-h=15" />
   <br/><br/>
 </div>
 ---

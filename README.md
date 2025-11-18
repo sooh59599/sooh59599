@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=ffb6c1&height=120&text=Hello%20World!&fontColor=ffffff&fontSize=70" />
-</div>
 
 <br/>
 
@@ -39,12 +36,15 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soo59599&layout=compact&bg_color=180,b8ecf9,ffffff&title_color=000000&text_color=000000"/>
-</p>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=soo59599&theme=tokyonight&column=6&margin-w=15&margin-h=15" />
   <br/><br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soo59599&theme=tokyonight&hide_border=true" />
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=soo59599&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soo59599&layout=compact&theme=tokyonight" />
 </div>
 ---
 

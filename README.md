@@ -1,15 +1,15 @@
 <div align="center">
 
-## Web Backend Developer · 박수현
+## Backend Developer · 박수현
 
 수학 전공을 기반으로 한 논리적 사고력으로  
-복잡한 요구사항을 구조적으로 분석하고, 명확한 설계로 풀어내는 웹 개발자입니다.
+복잡한 요구사항을 구조적으로 분석하고, 명확한 설계로 풀어내는 백엔드 개발자입니다.
 
 기술 선택에는 항상 근거가 있어야 한다는 원칙을 가지고 있으며,  
-성능 개선과 안정성, 그리고 유지보수성을 함께 고려한 개발을 지향합니다.
+성능 · 안정성 · 유지보수성을 함께 고려한 개발을 지향합니다.
 
 팀 프로젝트 경험을 통해 협업의 중요성을 체감했고,  
-함께 일하고 싶은 개발자가 되는 것을 목표로 성장하고 있습니다.
+함께 일하고 싶은 개발자로 성장하는 것을 목표로 하고 있습니다.
 
 </div>
 
@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=flat"/>
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat"/>
 </p>
 
 ### Database
@@ -47,38 +48,36 @@
 
 ---
 
-## 🧠 How I Work
+## 🌱 Learning & Interests
 
-- 요구사항을 **기능 단위가 아닌 도메인 단위**로 해석합니다.
-- “일단 구현”보다 **왜 이렇게 설계해야 하는지**를 먼저 고민합니다.
-- 성능 이슈, 예외 상황, 확장 가능성을 코드 수준에서 명확히 드러내려 합니다.
-- 읽기 쉬운 코드와 명확한 책임 분리를 중요하게 생각합니다.
+- Spring Boot, JPA 기반 백엔드 애플리케이션 설계
+- 인증/인가(Spring Security) 및 API 보안
+- 도메인 중심 설계와 트랜잭션 처리
+- 성능 개선, 쿼리 최적화, 안정적인 서비스 구조
 
 ---
 
-## 📌 What I’m Focusing On
+## 🧠 How I Work
 
-- Spring Boot 기반의 REST API 설계
-- JPA를 활용한 도메인 중심 설계
-- 트랜잭션 처리와 데이터 정합성
-- 성능 개선 및 쿼리 최적화 경험 축적
-- 테스트 코드 작성과 리팩토링
+- 요구사항을 **기능이 아닌 도메인 관점**에서 해석합니다.
+- “동작하는 코드”보다 **이유가 설명되는 코드**를 선호합니다.
+- 예외 상황과 경계 조건을 먼저 고민하며 설계합니다.
+- 읽기 쉬운 코드, 명확한 책임 분리를 중요하게 생각합니다.
 
 ---
 
 ## 📂 Projects
 
-> 각 프로젝트는 **README에 문제 정의 → 설계 → 해결 → 결과** 흐름으로 정리되어 있습니다.
+- Spring Boot 기반 웹 서비스 프로젝트 다수 진행
+- 결제 · 포인트 · 이벤트 · 정산 등 도메인 중심 기능 구현
+- Git 기반 협업, 코드 리뷰 및 역할 분담 경험
+- 각 프로젝트는 README에 문제 정의 → 설계 → 해결 흐름으로 정리
 
-- 팀 프로젝트 기반 웹 서비스
-- 결제 / 포인트 / 이벤트 / 정산 등 도메인 중심 기능 구현
-- 협업 환경에서의 Git Flow 및 코드 리뷰 경험
-
-👉 상세 내용은 각 Repository 참고
+👉 자세한 내용은 각 Repository 참고
 
 ---
 
-## 📬 Contact
+## 📬 Connect with Me
 
 <p align="center">
   <a href="mailto:soo59599@naver.com">
@@ -94,7 +93,7 @@
 
 ---
 
-## 🌱 GitHub Contributions
+## 🌿 GitHub Contributions
 
 <p align="center">
   <img src="https://ghchart.rshah.org/409ba5/sooh59599" alt="GitHub Contributions Graph"/>

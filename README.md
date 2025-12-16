@@ -1,100 +1,162 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3366CC&center=true&vCenter=true&width=500&lines=Logical+Backend+Developer;Math+Major+%2B+Structural+Thinking;Quality+over+Quantity" alt="Typing SVG" />
-</a>
+# 👋 Backend Developer · 박수현
+
+### 💡 수학 전공을 기반으로 한 논리적 사고력으로
+### 🎯 복잡한 요구사항을 구조적으로 분석하고, 명확한 설계로 풀어내는 백엔드 개발자입니다.
 
 <br/>
 
-<h3>박수현 (Soo-hyun Park)</h3>
+기술 선택에는 항상 근거가 있어야 한다는 원칙을 가지고 있으며,  
+성능 · 안정성 · 유지보수성을 함께 고려한 개발을 지향합니다.
 
-<p>
-  수학 전공을 기반으로 복잡한 요구사항을 구조적으로 분석하고,<br/>
-  명확한 설계로 풀어내는 백엔드 개발자입니다.
-</p>
-
-<p>
-  <i>"동작하는 코드보다 이유가 설명되는 코드를 선호합니다."</i>
-</p>
-
-<div align="center">
-  <a href="mailto:soo59599@naver.com"><img src="https://img.shields.io/badge/Email-soo59599@naver.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white"/></a>
-  <a href="https://solved.ac/soo5959"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soo5959"/></a>
-  <a href="https://github.com/sooh59599"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsooh59599&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</div>
+팀 프로젝트 경험을 통해 협업의 중요성을 체감했고,  
+함께 일하고 싶은 개발자로 성장하는 것을 목표로 하고 있습니다.
 
 </div>
 
-<br/>
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sooh59599&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sooh59599&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
-</div>
+## 🌟 About Me
 
-<br/>
+```java
+public class Developer {
+    private String name = "박수현";
+    private String role = "Backend Developer";
+    private String background = "Mathematics Major";
+    
+    private List<String> principles = Arrays.asList(
+        "기술 선택에는 항상 근거가 있어야 한다",
+        "성능 · 안정성 · 유지보수성을 함께 고려한다",
+        "팀과 함께 성장하는 개발자가 되고자 한다"
+    );
+    
+    public String introduce() {
+        return "요구사항을 도메인 중심으로 분석하고, " +
+               "이유가 설명되는 코드를 작성하는 개발자입니다.";
+    }
+}
+```
 
 ---
 
 ## 🛠 Tech Stack
 
-**Backend**
-<br>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
-<img src="https://img.shields.io/badge/JPA%20(Hibernate)-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
+### 💻 Backend Core
+- **Java** - 주력 언어
+- **Spring Boot** - 백엔드 프레임워크
+- **Spring Security** - 인증/인가
+- **JPA / Hibernate** - ORM
 
-**Database**
-<br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+### 🗄️ Database
+- **MySQL** - 관계형 데이터베이스
+- **Redis** - 캐시 및 세션 관리
 
-**Tools & Collaboration**
-<br>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+### 🔧 Tools & Collaboration
+- **Git / GitHub** - 버전 관리 및 협업
+- **Postman** - API 테스트
+- **Notion** - 문서화 및 협업
+- **Slack** - 팀 커뮤니케이션
 
 ---
 
-## 🧠 Core Values & Work Style
+## 🌱 Currently Learning & Interests
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔍 Analysis & Design</h3>
-      <ul>
-        <li><b>도메인 관점 해석</b>: 요구사항을 단순 기능 구현이 아닌 비즈니스 로직으로 이해합니다.</li>
-        <li><b>구조적 사고</b>: 수학 전공의 강점을 살려 예외 상황과 경계 조건(Boundary Condition)을 미리 설계합니다.</li>
-        <li><b>객체 지향</b>: 데이터 흐름보다는 객체 간의 책임과 역할 분리를 중요시합니다.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">💻 Implementation</h3>
-      <ul>
-        <li><b>Why?</b>: 기술 선택 시 항상 명확한 근거를 제시합니다.</li>
-        <li><b>Quality</b>: 성능, 안정성, 유지보수성의 균형을 맞춘 코드를 작성합니다.</li>
-        <li><b>Clean Code</b>: 주석 없이도 읽히는 직관적인 네이밍과 코드를 지향합니다.</li>
-      </ul>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Current Focus
+- ✅ **Spring Boot** 기반 백엔드 아키텍처 설계
+- ✅ **JPA** 성능 최적화 및 쿼리 튜닝
+- ✅ **Spring Security** 인증/인가 구현
+- ✅ **도메인 중심 설계**(DDD) 실습
+- ✅ **RESTful API** 설계 및 문서화
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Next Goals
+- 🔜 **MSA** 아키텍처 이해 및 적용
+- 🔜 **Docker** & **Kubernetes** 컨테이너 기술
+- 🔜 **CI/CD** 파이프라인 구축
+- 🔜 **AWS** 클라우드 인프라 경험
+- 🔜 **테스트 코드** 작성 역량 강화
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 📂 Featured Projects
+## 🧠 Development Philosophy
 
-| Project Name | Description & Tech Stack |
-| :--- | :--- |
-| **[프로젝트 이름 입력]**<br>_프로젝트 한줄 요약_ | • **Role**: 백엔드 설계 및 개발<br>• **Stack**: Spring Boot, JPA, MySQL<br>• **Feature**: 핵심 기능 구현 내용 작성 |
-| **[프로젝트 이름 입력]**<br>_프로젝트 한줄 요약_ | • **Role**: API 개발 및 배포<br>• **Stack**: Spring Boot, Redis, AWS<br>• **Feature**: 트러블 슈팅 경험 작성 |
+| 원칙 | 설명 |
+|:---:|:---|
+| **🎨 도메인 중심 설계** | 요구사항을 기능이 아닌 **도메인 관점**에서 해석합니다 |
+| **📖 가독성 우선** | "동작하는 코드"보다 **이유가 설명되는 코드**를 선호합니다 |
+| **🛡️ 방어적 프로그래밍** | 예외 상황과 경계 조건을 먼저 고민하며 설계합니다 |
+| **🔍 책임 분리** | 읽기 쉬운 코드, 명확한 책임 분리를 중요하게 생각합니다 |
+| **📚 지속적 학습** | 기술 트렌드를 따라가며 끊임없이 학습하고 개선합니다 |
 
 ---
 
-## 🌿 GitHub Contributions
+## 📂 Projects
+
+### 💡 프로젝트 공통 특징
+- ✨ **문제 정의 → 설계 → 해결** 흐름으로 체계적으로 문서화
+- 🔄 Git을 활용한 브랜치 전략 및 코드 리뷰 경험
+- 📝 각 프로젝트마다 상세한 README 및 API 문서 작성
+- 🎯 도메인 중심 설계 및 트랜잭션 처리 경험
+- 🧪 단위 테스트 및 통합 테스트 작성
+
+> 👉 자세한 내용은 각 Repository 참고
+
+---
+
+## 📈 Algorithm & Problem Solving
+
+### ✍️ 백준 온라인 저지 활동
+- **프로필**: [solved.ac/soo5959](https://solved.ac/soo5959)
+- 수학 전공 기반의 논리적 사고력을 활용한 알고리즘 문제 해결
+- 꾸준한 문제 풀이를 통한 코딩 실력 향상
+
+---
+
+
+## 💪 Strengths
+
+### 🧮 수학적 사고력
+- 복잡한 비즈니스 로직을 수식과 알고리즘으로 명확하게 정의
+- 최적화 문제를 수학적 접근으로 해결
+
+### 📊 체계적인 문제 해결
+- 문제를 작은 단위로 분해하고 우선순위를 설정
+- 가설 수립 → 검증 → 개선의 반복적 프로세스
+
+### 📖 빠른 학습 능력
+- 새로운 기술을 빠르게 습득하고 적용
+- 공식 문서와 코드를 통한 자기주도적 학습
+
+### 🤝 협업 및 커뮤니케이션
+- 명확한 의사소통과 문서화
+- 코드 리뷰를 통한 상호 성장
+- 팀원의 의견을 경청하고 존중
+
+---
+
+## 📬 Contact
+
+- **Email**: soo59599@naver.com
+- **GitHub**: [github.com/sooh59599](https://github.com/sooh59599)
+- **Solved.ac**: [solved.ac/soo5959](https://solved.ac/soo5959)
+
+---
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/2196F3/sooh59599" alt="sooh59599's Github chart" />
+
+### 💬 함께 성장하고 싶은 개발자라면 언제든 연락 주세요!
+
+**"이유가 설명되는 코드를 작성하는 개발자"**
+
 </div>

@@ -94,4 +94,8 @@
 
 ---
 
-<!-- 아래는 GitHub 기본 잔디 영역 -->
+## 🌱 GitHub Contributions
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/409ba5/soo59599" alt="GitHub Contributions Graph"/>
+</p>

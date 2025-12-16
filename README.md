@@ -2,17 +2,20 @@
 
 ## Web Backend Developer · 박수현
 
-수학 전공 기반의 논리적 사고력을 바탕으로  
-문제를 구조적으로 분석하고, 근거 있는 기술 선택을 지향하는 웹 개발자입니다.
+수학 전공을 기반으로 한 논리적 사고력으로  
+복잡한 요구사항을 구조적으로 분석하고, 명확한 설계로 풀어내는 웹 개발자입니다.
 
-팀 프로젝트 경험을 통해 협업 과정에서의 책임감과  
-서비스 안정성·성능 개선에 대한 실질적인 고민을 이어가고 있습니다.
+기술 선택에는 항상 근거가 있어야 한다는 원칙을 가지고 있으며,  
+성능 개선과 안정성, 그리고 유지보수성을 함께 고려한 개발을 지향합니다.
+
+팀 프로젝트 경험을 통해 협업의 중요성을 체감했고,  
+함께 일하고 싶은 개발자가 되는 것을 목표로 성장하고 있습니다.
 
 </div>
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 ### Backend
 <p>
@@ -44,26 +47,38 @@
 
 ---
 
-## GitHub Activity
+## 🧠 How I Work
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=soo59599&theme=tokyonight&column=6&margin-w=15&margin-h=15" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=soo59599&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=soo59599&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soo59599&layout=compact&theme=tokyonight" />
-
-</div>
+- 요구사항을 **기능 단위가 아닌 도메인 단위**로 해석합니다.
+- “일단 구현”보다 **왜 이렇게 설계해야 하는지**를 먼저 고민합니다.
+- 성능 이슈, 예외 상황, 확장 가능성을 코드 수준에서 명확히 드러내려 합니다.
+- 읽기 쉬운 코드와 명확한 책임 분리를 중요하게 생각합니다.
 
 ---
 
-## Contact
+## 📌 What I’m Focusing On
+
+- Spring Boot 기반의 REST API 설계
+- JPA를 활용한 도메인 중심 설계
+- 트랜잭션 처리와 데이터 정합성
+- 성능 개선 및 쿼리 최적화 경험 축적
+- 테스트 코드 작성과 리팩토링
+
+---
+
+## 📂 Projects
+
+> 각 프로젝트는 **README에 문제 정의 → 설계 → 해결 → 결과** 흐름으로 정리되어 있습니다.
+
+- 팀 프로젝트 기반 웹 서비스
+- 결제 / 포인트 / 이벤트 / 정산 등 도메인 중심 기능 구현
+- 협업 환경에서의 Git Flow 및 코드 리뷰 경험
+
+👉 상세 내용은 각 Repository 참고
+
+---
+
+## 📬 Contact
 
 <p align="center">
   <a href="mailto:soo59599@naver.com">
@@ -76,3 +91,7 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soo5959"/>
   </a>
 </p>
+
+---
+
+<!-- 아래는 GitHub 기본 잔디 영역 -->
